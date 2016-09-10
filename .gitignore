@@ -1,0 +1,5 @@
+
+
+*.xcodeproj/
+/TipCalculatorTests
+/TipCalculatorUITests
